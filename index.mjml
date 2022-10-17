@@ -1,10 +1,24 @@
 <mjml>
     <mj-head>
-        <mj-title></mj-title>
+        <mj-title>OneLabel season 3 promo email-orange</mj-title>
+        <mj-font name="Montserrat" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap"/>
         <mj-attributes>
+            <mj-text font-family="Montserrat, sans-serif" color="#271b1a" align="center"
+            padding="0" font-size="18px" line-height="26px" />
+
+            <mj-image padding="0" />
+
+            <mj-button border-radius="0px" width="200px" height="45px" font-family="Montserrat, sans-serif" 
+            background-color="#b5aba4" font-size="14px" color="#ffffff" />
+
+            <mj-section padding="0" />
             
+            <mj-class name="head-text" font-size="48px" line-height="70px" text-transform="uppercase" />
         </mj-attributes>
+
     </mj-head>
+
+
     <mj-body>
         <mj-section>
             <mj-column width="650px">

@@ -21,16 +21,31 @@
 
     <mj-body>
 
-        <!--LOGO SECTION START-->
-        <mj-section background-color="gray" >
+        <!--LOGO SECTION-->
+        <mj-section background-color="#d5d5d5" >
             <mj-column width="650px">
-
                <mj-image 
-                 src="https://ibb.co/0JjGzyj"
-                 alt=""
-                 width="220px" height="50px"/>
+                 src="https://i.ibb.co/JkRsSjR/onelabel-logo.png"
+                 alt="onelabel logo"
+                 width="200px"/>
 
             </mj-column>
+        </mj-section>
+
+        <!--HERO IMAGE-->
+        <mj-section>
+         
+            <mj-column background-color="#d5d5d5" width="650px" >
+                <mj-image 
+                padding="0"
+                 src="https://i.ibb.co/LQbH5df/img1.jpg"
+                 alt="onelabel logo"
+                 width="500px"/>
+                <mj-text>TESTING</mj-text>
+
+         
+            </mj-column>
+         
         </mj-section>
     </mj-body>
 </mjml>

@@ -107,18 +107,16 @@
             </mj-column>
         </mj-section>
 
-        <mj-divider  width="600px" border-width="3px" border-style="solid"  border-color="#bf5e48"/>
-
         <!--FOOTER / SOCIAL MEDIA / PHONE-->
 
         <mj-section background-color="#858173" >
             <mj-column width="600px" >
+            <mj-divider padding-top="20px"  width="100px" border-width="3px" border-style="solid"  border-color="#bf5e48"/>
                <mj-social font-size="20px" icon-size="40px" >
                 <mj-social-element  name="instagram" href="https://www.instagram.com/onelabeluk/" />
                 <mj-social-element  name="facebook" href="https://www.instagram.com/onelabeluk/" />
                 <mj-social-element  name="twitter" href="https://www.instagram.com/onelabeluk/" />
                 <mj-social-element  name="linkedin" href="https://www.instagram.com/onelabeluk/" />
-  
                </mj-social>
             </mj-column>
         </mj-section>

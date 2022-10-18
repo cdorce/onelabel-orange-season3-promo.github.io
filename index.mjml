@@ -8,8 +8,8 @@
 
             <mj-image padding="0" />
 
-            <mj-button border-radius="0px" width="200px" height="45px" font-family="Montserrat, sans-serif" 
-            background-color="#b5aba4" font-size="14px" color="#ffffff" />
+            <mj-button border-radius="10px" width="200px" height="45px" font-family="Montserrat, sans-serif" 
+            background-color="#de5a3d" font-size="14px" color="#ffffff" />
 
             <mj-section padding="0" />
 
@@ -19,10 +19,10 @@
     </mj-head>
 
 
-    <mj-body>
+    <mj-body background-color="#e4dbc6" >
 
         <!--LOGO SECTION-->
-        <mj-section background-color="#d5d5d5" >
+        <mj-section background-color="#b7b8b8" >
             <mj-column width="600px">
                <mj-image 
                  src="https://i.ibb.co/JkRsSjR/onelabel-logo.png"
@@ -57,7 +57,19 @@
 
         <!--TEXT SECTION-->
 
+        <mj-section background-color="#b7b8b8" >
+            <mj-column width="600px" >
+                <mj-text align="center" padding-top="30px" font-weight="600" color="#fff" font-size="25px" font-family="Montserrat">
+                    Only for the month of October
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
         <!--BUTTON SECTION-->
+
+        <mj-button>
+    
+        </mj-button>
 
         <!--PRODUCT / BUY BUTTON-->
 

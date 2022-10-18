@@ -23,7 +23,7 @@
 
         <!--LOGO SECTION-->
         <mj-section background-color="#d5d5d5" >
-            <mj-column width="650px">
+            <mj-column width="600px">
                <mj-image 
                  src="https://i.ibb.co/JkRsSjR/onelabel-logo.png"
                  alt="onelabel logo"
@@ -32,20 +32,35 @@
             </mj-column>
         </mj-section>
 
-        <!--HERO IMAGE-->
-        <mj-section>
+        <!--HERO IMAGE / DISCOUNT TEXT-->
+        <mj-section background-url="https://i.ibb.co/LQbH5df/img1.jpg" background-size="cover" background-repeat="no-repeat">
          
-            <mj-column background-color="#d5d5d5" width="650px" >
-                <mj-image 
-                padding="0"
-                 src="https://i.ibb.co/LQbH5df/img1.jpg"
-                 alt="onelabel logo"
-                 width="500px"/>
-                <mj-text>TESTING</mj-text>
+            <mj-column width="600px">
+                <mj-text align="right" padding-top="80px" font-weight="800" color="#fff" font-size="55px" font-family="Montserrat">
+                OCTOBER SALE
+                </mj-text>
+                <mj-text align="right" padding-top="20px" color="#d5d5d5" font-size="40px" font-family="Montserrat">
+                Free shipping
+                </mj-text>
+                <mj-text align="right" padding-top="80px" font-weight="800" color="#f0b2a3" font-size="150px" font-family="Montserrat">
+                60%
+                </mj-text>
+                <mj-text align="right" padding-bottom="95px" font-weight="600" padding-top="50px" color="#fff" font-size="30px" font-family="Montserrat">
+                Discount now
+                </mj-text>
 
          
             </mj-column>
          
         </mj-section>
+
+
+        <!--TEXT SECTION-->
+
+        <!--BUTTON SECTION-->
+
+        <!--PRODUCT / BUY BUTTON-->
+
+        <!--FOOTER / SOCIAL MEDIA / PHONE-->
     </mj-body>
 </mjml>

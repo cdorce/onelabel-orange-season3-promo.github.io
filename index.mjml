@@ -12,7 +12,7 @@
             background-color="#b5aba4" font-size="14px" color="#ffffff" />
 
             <mj-section padding="0" />
-            
+
             <mj-class name="head-text" font-size="48px" line-height="70px" text-transform="uppercase" />
         </mj-attributes>
 
@@ -20,9 +20,15 @@
 
 
     <mj-body>
-        <mj-section>
+
+        <!--LOGO SECTION START-->
+        <mj-section background-color="gray" >
             <mj-column width="650px">
-               
+
+               <mj-image 
+                 src="https://ibb.co/0JjGzyj"
+                 alt=""
+                 width="220px" height="50px"/>
 
             </mj-column>
         </mj-section>

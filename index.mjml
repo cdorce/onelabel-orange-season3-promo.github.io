@@ -29,7 +29,7 @@
     </mj-head>
 
 
-    <mj-body background-color="#e4dbc6" >
+    <mj-body background-color="#e4dbc6" width="600px">
 
         <!--LOGO SECTION-->
         <mj-section background-color="#858173" >

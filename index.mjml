@@ -48,8 +48,6 @@
                 <mj-text align="right" padding-bottom="95px" font-weight="600" padding-top="50px" color="#fff" font-size="30px" font-family="Montserrat">
                 Discount now
                 </mj-text>
-
-         
             </mj-column>
          
         </mj-section>
@@ -68,16 +66,13 @@
         <!--BUTTON SECTION-->
         <mj-section background-color="#b7b8b8" >
             <mj-column width="600px" >
-               <mj-button padding-top="40px" font-size="20px"font-weight="600" >
+               <mj-button href="https://www.instagram.com/onelabeluk/" padding-top="40px" font-size="20px"font-weight="600" >
                 Shop Now
                 </mj-button>
             </mj-column>
         </mj-section>
-        
 
         <!--PRODUCT / BUY BUTTON-->
-        
-        
         
         
         <mj-section background-color="#b7b8b8">
@@ -89,20 +84,19 @@
                     <mj-carousel-image src="https://i.ibb.co/8B08v7b/hat2b-transp.png" />
                     <mj-carousel-image src="https://i.ibb.co/qy41RN4/hat1-transp.png" />
                     <mj-carousel-image src="https://i.ibb.co/rF42CbF/hat1b-transp.png" />
-                    
-                    
-
                 </mj-carousel>
-
-                    
-
             </mj-column>
-
-              
-
-                    
-
         </mj-section>
+
+        <mj-section background-color="#b7b8b8" >
+            <mj-column width="600px" >
+               <mj-button  href="https://www.instagram.com/onelabeluk/" padding-bottom="40px" padding-top="70px" font-size="20px"font-weight="600" >
+                Shop Now
+                </mj-button>
+            </mj-column>
+        </mj-section>
+
+        <mj-divider  width="600px" border-width="3px" border-style="solid"  border-color="#bf5e48"/>
 
         <!--FOOTER / SOCIAL MEDIA / PHONE-->
     </mj-body>

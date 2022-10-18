@@ -59,7 +59,7 @@
 
         <mj-section background-color="#b7b8b8" >
             <mj-column width="600px" >
-                <mj-text align="center" padding-top="30px" font-weight="600" color="#f4f4f4" font-size="25px" font-family="Montserrat">
+                <mj-text align="center" padding-top="60px" font-weight="600" color="#f4f4f4" font-size="25px" font-family="Montserrat">
                     Only for the month of October
                 </mj-text>
             </mj-column>
@@ -68,7 +68,7 @@
         <!--BUTTON SECTION-->
         <mj-section background-color="#b7b8b8" >
             <mj-column width="600px" >
-               <mj-button font-size="20px"font-weight="600" >
+               <mj-button padding-top="40px" font-size="20px"font-weight="600" >
                 Shop Now
                 </mj-button>
             </mj-column>
@@ -76,16 +76,32 @@
         
 
         <!--PRODUCT / BUY BUTTON-->
+        
+        
+        
+        
+        <mj-section background-color="#b7b8b8">
+            
+            <mj-column >
+                <mj-carousel>
+                    <mj-carousel-image src="https://i.ibb.co/mR8Md3w/img2-transp.png" />
+                    <mj-carousel-image src="https://i.ibb.co/V2qRrdY/hat2-transp.png" />
+                    <mj-carousel-image src="https://i.ibb.co/8B08v7b/hat2b-transp.png" />
+                    <mj-carousel-image src="https://i.ibb.co/qy41RN4/hat1-transp.png" />
+                    <mj-carousel-image src="https://i.ibb.co/rF42CbF/hat1b-transp.png" />
+                    
+                    
 
-         <mj-section background-color="#b7b8b8" >
-            <mj-column width="200px" background-color="#f4f4f4" border-radius="10px">
+                </mj-carousel>
 
-                <mj-image />
+                    
 
-               <mj-button height="20px" width="150px" font-size="10px"font-weight="600" >
-                Add to Cart
-                </mj-button>
             </mj-column>
+
+              
+
+                    
+
         </mj-section>
 
         <!--FOOTER / SOCIAL MEDIA / PHONE-->

@@ -15,14 +15,14 @@
 
             <mj-class name="head-text" font-size="48px" line-height="70px" text-transform="uppercase" />
         </mj-attributes>
-
+        <mj-breakpoint width="320px"/>
     </mj-head>
 
 
     <mj-body background-color="#e4dbc6" >
 
         <!--LOGO SECTION-->
-        <mj-section background-color="#b7b8b8" >
+        <mj-section background-color="#858173" >
             <mj-column width="600px">
                <mj-image 
                  src="https://i.ibb.co/JkRsSjR/onelabel-logo.png"
@@ -43,7 +43,7 @@
                 Free shipping
                 </mj-text>
                 <mj-text align="right" padding-top="80px" font-weight="800" color="#f0b2a3" font-size="150px" font-family="Montserrat">
-                60%
+                20%
                 </mj-text>
                 <mj-text align="right" padding-bottom="95px" font-weight="600" padding-top="50px" color="#fff" font-size="30px" font-family="Montserrat">
                 Discount now
@@ -99,5 +99,18 @@
         <mj-divider  width="600px" border-width="3px" border-style="solid"  border-color="#bf5e48"/>
 
         <!--FOOTER / SOCIAL MEDIA / PHONE-->
+
+        <mj-section background-color="#858173" >
+            <mj-column width="600px" >
+               <mj-social font-size="20px" icon-size="40px" >
+                <mj-social-element  name="instagram" href="https://www.instagram.com/onelabeluk/" />
+                <mj-social-element  name="facebook" href="https://www.instagram.com/onelabeluk/" />
+                <mj-social-element  name="twitter" href="https://www.instagram.com/onelabeluk/" />
+                <mj-social-element  name="linkedin" href="https://www.instagram.com/onelabeluk/" />
+  
+               </mj-social>
+            </mj-column>
+        </mj-section>
+
     </mj-body>
 </mjml>

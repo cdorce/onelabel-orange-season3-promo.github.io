@@ -90,11 +90,10 @@
             
             <mj-column >
                 <mj-carousel>
-                    <mj-carousel-image src="https://i.ibb.co/mR8Md3w/img2-transp.png" />
-                    <mj-carousel-image src="https://i.ibb.co/V2qRrdY/hat2-transp.png" />
-                    <mj-carousel-image src="https://i.ibb.co/8B08v7b/hat2b-transp.png" />
-                    <mj-carousel-image src="https://i.ibb.co/qy41RN4/hat1-transp.png" />
-                    <mj-carousel-image src="https://i.ibb.co/rF42CbF/hat1b-transp.png" />
+                    <mj-carousel-image src="orange-2.png" />
+                    <mj-carousel-image src="orange-1.png" />
+                    <mj-carousel-image src="orange-3.png" />
+                    <mj-carousel-image src="orange-4.png" />
                 </mj-carousel>
             </mj-column>
         </mj-section>
